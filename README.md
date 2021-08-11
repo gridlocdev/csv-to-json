@@ -1,2 +1,2 @@
 # csv-to-json
-A small example script that turns a Todo in csv format and translates that into a JSON object
+A small example script that translates a Todo item from .CSV format into a .JSON file
